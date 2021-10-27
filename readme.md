@@ -16,8 +16,8 @@
 
 - ###   Estruturando as pastas do projeto
 
->       01. Criar a pasta *src* onde ficará o código criado na aplicação
+>       01. Criar a pasta **src** onde ficará o código criado na aplicação
 
->       02. Criar a pasta *public* onde ficarão os *assets* do projeto
+>       02. Criar a pasta **public** onde ficarão os **assets** do projeto
 
->       03. Criar o arquivo *index.html* dentro da pasta *public*
+>       03. Criar o arquivo **index.html** dentro da pasta **public**
