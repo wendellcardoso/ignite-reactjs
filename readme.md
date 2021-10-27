@@ -4,12 +4,12 @@
 
 >    - Inicializando o repositório do projeto criando o package.json:
 
->        > _ yarn init -y _
+>        yarn init -y
 
 >    - Instalando o react:
 
->        > _ yarn add react _
+>        yarn add react
 
 >    - Instalando o react-dom
 
->        > _ yarn add react-dom _
+>        yarn add react-dom
