@@ -1,15 +1,15 @@
-# Trilha ReactJS
+> # Trilha ReactJS
 
-## - 01-github-explorer
+> ## 01-github-explorer
 
-    - Inicializando o repositório do projeto criando o package.json:
+>    - Inicializando o repositório do projeto criando o package.json:
 
-        > _yarn init -y_
+>        > _ yarn init -y _
 
-    - Instalando o react:
+>    - Instalando o react:
 
-        > _yarn add react_
+>        > _ yarn add react _
 
-    - Instalando o react-dom
+>    - Instalando o react-dom
 
-        > _yarn add react-dom_
+>        > _ yarn add react-dom _
