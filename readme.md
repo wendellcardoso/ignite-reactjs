@@ -2,19 +2,19 @@
 
 ## 01-github-explorer
 
-###    - Inicializando o repositório do projeto criando o package.json:
+- ###    Inicializando o repositório do projeto criando o package.json:
 
 >       yarn init -y
 
-###   - Instalando o react:
+- ###   Instalando o react:
 
 >       yarn add react
 
-###   - Instalando o react-dom
+- ###   Instalando o react-dom
 
 >       yarn add react-dom
 
-###   - Estruturando as pastas do projeto
+- ###   Estruturando as pastas do projeto
 
 >       01. Criar a pasta _src_ onde ficará o código criado na aplicação
 
