@@ -1,2 +1,4 @@
 01. Introdução do módulo
 02. Criando estrutura do projeto
+03. Configurando o Babel
+04. Configurando o Webpack
