@@ -28,4 +28,5 @@
 >       03. Criar o arquivo babel.config.js dentro da pasta src:
 
 - ###   Criando o arquivo index.js na pasta src
+>       yarn babel src/index.jsx --out-file dist/bundle.js
 
