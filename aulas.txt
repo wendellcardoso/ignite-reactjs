@@ -2,3 +2,5 @@
 02. Criando estrutura do projeto
 03. Configurando o Babel
 04. Configurando o Webpack
+05. Estrutura do ReactJS
+06. Servindo HTML estático

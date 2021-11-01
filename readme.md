@@ -40,3 +40,8 @@
 >       yarn add webpack webpack-cli babel-loader -D    // babel-loader faz a integraçao entre o babel e o webpack
 
 >       yarn webpack    // executa o webpack
+
+- ###   Estruturado ReactJS
+>       ReactJS é uma biblioteca que cria toda a interface da aplicação através do Javascript
+
+>       render(<h1></h1>, document.getElementById("root")); // Funcao Render: (O que, onde)
