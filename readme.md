@@ -45,3 +45,13 @@
 >       ReactJS é uma biblioteca que cria toda a interface da aplicação através do Javascript
 
 >       render(<h1></h1>, document.getElementById("root")); // Funcao Render: (O que, onde)
+
+- ###   Servindo HTML estático
+>       Instalando o html-webpack-plugin: yarn add html-webpack-plugin -D   // serve para injetar os arquivos javascript no index.html
+
+>       //Configurar no arquivo webpack.config.js
+>       plugins:[
+>        new HtmlWebpackPlugin({
+>            template: path.resolve(__dirname, 'public', 'index.html')
+>        })
+>    ],
