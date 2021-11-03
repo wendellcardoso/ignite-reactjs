@@ -55,3 +55,14 @@
 >            template: path.resolve(__dirname, 'public', 'index.html')
 >        })
 >    ],
+
+- ### Webpack Dev Server
+>       Instalando o webpack-dev-server: yarn add webpack-dev-server -D      // serve para escutar as mudancas no codigo e criar novamente o bandle
+
+>devServer: {
+>    static: {
+>        directory: path.join(__dirname, 'public'),
+>    },
+>    compress: true,
+>     port: 9000
+> },
