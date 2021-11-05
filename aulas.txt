@@ -6,3 +6,4 @@
 05. Estrutura do ReactJS
 06. Servindo HTML estático
 07. Webpack Dev Server
+08. Utilizando source maps

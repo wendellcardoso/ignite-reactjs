@@ -66,3 +66,8 @@
 >    compress: true,
 >     port: 9000
 > },
+
+- ### Configurando o Source Maps
+>   é uma forma de visualizar o codigo original depois que ele é convertido pelo webpack
+
+>   devtool: 'eval-source-map', // ambiente de producao
