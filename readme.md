@@ -71,3 +71,10 @@
 >   é uma forma de visualizar o codigo original depois que ele é convertido pelo webpack
 
 >   devtool: 'eval-source-map', // ambiente de producao
+
+- ## Ambiente dev e producao
+> Varieaveis ambiente
+
+> process.env.NODE_ENV
+
+> yarn add cross-env -D // serve para definirmos variaveis de ambiente, independente do sistema operacional
