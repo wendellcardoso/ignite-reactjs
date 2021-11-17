@@ -78,3 +78,6 @@
 > process.env.NODE_ENV
 
 > yarn add cross-env -D // serve para definirmos variaveis de ambiente, independente do sistema operacional
+
+- ## Importando arquivos CSS
+> yarn add style-loader css-loader -D   // instalando loaders css. OBS: precisa ser os dois juntos
