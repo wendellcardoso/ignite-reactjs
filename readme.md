@@ -81,3 +81,8 @@
 
 - ## Importando arquivos CSS
 > yarn add style-loader css-loader -D   // instalando loaders css. OBS: precisa ser os dois juntos
+
+- ## Utilizando SASS
+> yarn add sass-loader -D       // instalando sass-loader para entender arquivos sass
+
+> yarn add node-sass -D      // também precisa instalar o node-sass
