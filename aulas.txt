@@ -10,3 +10,6 @@
 09. Ambiente dev e producao
 10. Importando arquivos CSS
 11. Utilizando SASS
+
+//02 - CONCEITOS IMPORTANTES
+01. Primeiro componente React

@@ -86,3 +86,6 @@
 > yarn add sass-loader -D       // instalando sass-loader para entender arquivos sass
 
 > yarn add node-sass -D      // também precisa instalar o node-sass
+
+- ## Primeiro componente React
+> Componentes são uma forma de encapsular uma quantidade de código dentro de um único elemento com sua propria funcionalidade, estilizacao e estrutura. 
