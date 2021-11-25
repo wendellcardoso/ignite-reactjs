@@ -88,4 +88,7 @@
 > yarn add node-sass -D      // também precisa instalar o node-sass
 
 - ## Primeiro componente React
-> Componentes são uma forma de encapsular uma quantidade de código dentro de um único elemento com sua propria funcionalidade, estilizacao e estrutura. 
+> Componentes são uma forma de encapsular uma quantidade de código dentro de um único elemento com sua propria funcionalidade, estilizacao e estrutura.
+
+- ## Propriedades no React
+> São informações que eu posso passar pra um componente para que ele funcione de forma diferente

@@ -13,3 +13,4 @@
 
 //02 - CONCEITOS IMPORTANTES
 01. Primeiro componente React
+02. Propriedades no React
