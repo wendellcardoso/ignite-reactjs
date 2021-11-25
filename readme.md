@@ -92,3 +92,6 @@
 
 - ## Propriedades no React
 > São informações que eu posso passar pra um componente para que ele funcione de forma diferente
+
+- ## Estado do componente
+> Estados são uma forma de ter variaveis no componente que ao mudarem refletem em mudancas na interface
