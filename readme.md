@@ -98,3 +98,6 @@
 
 - ## A imutabilidade no React
 > prevê que uma variavel nunca tenha seu valor alterado mas sim que uma nova variavel seja criada no lugar com o novo valor
+
+- ## Fast refresh no webpack
+> usado para realizar mudancas no código da aplicacao durante sua execucao sem alterar os estados dos componentes durante o refresh
