@@ -95,3 +95,6 @@
 
 - ## Estado do componente
 > Estados são uma forma de ter variaveis no componente que ao mudarem refletem em mudancas na interface
+
+- ## A imutabilidade no React
+> prevê que uma variavel nunca tenha seu valor alterado mas sim que uma nova variavel seja criada no lugar com o novo valor
