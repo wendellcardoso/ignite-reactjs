@@ -18,7 +18,11 @@
 04. A imutabilidade no react
 05. Fast refresh no Webpack
 
-//03 - Chamadas HTTP
+//03 - CHAMADAS HTTP
 01. Estilizacao de listagem
 02. Utilizando o userEffect
 03. Listando repositorios
+
+//04 - USANDO TYPESCRIPT
+01. Fundamentos do Typescript
+02. Typescript no React

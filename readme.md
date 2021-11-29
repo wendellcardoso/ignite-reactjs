@@ -101,3 +101,14 @@
 
 - ## Fast refresh no webpack
 > usado para realizar mudancas no código da aplicacao durante sua execucao sem alterar os estados dos componentes durante o refresh
+
+- ## Typescript no React
+> yarn add typescript -D        // instalando o typescript
+
+> yarn tsc --init       // inicializando o typescript na aplicacao
+
+> yarn add @babel/preset-typescript -D      // para o babel entender o typescript
+
+> yarn add @types/react-dom -D
+
+> yarn add @types/react -D
