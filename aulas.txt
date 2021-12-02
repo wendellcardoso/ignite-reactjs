@@ -1,3 +1,8 @@
+/*
+CHAPTER 1
+FUNDAMENTOS DO REACTJS
+*/
+
 //01 - CONFIGURANDO A API
 01. Introdução do módulo
 02. Criando estrutura do projeto
@@ -27,3 +32,7 @@
 01. Fundamentos do Typescript
 02. Typescript no React
 03. Componentes com Typescript
+
+//05 - FINALIZANDO A APLICACAO
+01. Utilizando React DevTools
+
