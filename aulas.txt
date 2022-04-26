@@ -7,7 +7,7 @@ FUNDAMENTOS DO REACTJS
 01. Introdução do módulo
 02. Criando estrutura do projeto
 03. Configurando o Babel
-04. Configurando o Webpack
+04. Configurando o Webpack  (Recapitulando aqui)
 05. Estrutura do ReactJS
 06. Servindo HTML estático
 07. Webpack Dev Server
