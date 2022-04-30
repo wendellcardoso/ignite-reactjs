@@ -14,14 +14,14 @@ FUNDAMENTOS DO REACTJS
 08. Utilizando source maps
 09. Ambiente dev e producao
 10. Importando arquivos CSS
-11. Utilizando SASS (Recapitulando aqui)
+11. Utilizando SASS
 
 //02 - CONCEITOS IMPORTANTES
 01. Primeiro componente React
 02. Propriedades no React
 03. Estado do componente
 04. A imutabilidade no react
-05. Fast refresh no Webpack
+05. Fast refresh no Webpack (Recapitulando aqui)
 
 //03 - CHAMADAS HTTP
 01. Estilizacao de listagem
