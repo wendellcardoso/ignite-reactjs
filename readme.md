@@ -107,6 +107,13 @@
 - ## Fast refresh no webpack
 > usado para realizar mudancas no código da aplicacao durante sua execucao sem alterar os estados dos componentes durante o refresh
 
+- ## Utilizando o UseEffect
+> serve para disparar uma função quando algo acontecer na aplicação
+
+> useEffect(() => {}, [dependencies])
+
+> nunca alterar uma variavel dentro do useEffect que está sendo usada como dependencia
+
 - ## Typescript no React
 > yarn add typescript -D        // instalando o typescript
 
