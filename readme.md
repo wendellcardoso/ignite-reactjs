@@ -119,6 +119,11 @@
 
 > yarn tsc --init       // inicializando o typescript na aplicacao
 
+> setar o arquivo tsconfig.json
+
+> "lib": adiciona algumas funcionalidades
+>  "allowJS": permite a utilização de arquivos .js (além do .ts)
+
 > yarn add @babel/preset-typescript -D      // para o babel entender o typescript
 
 > yarn add @types/react-dom -D
