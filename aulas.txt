@@ -27,10 +27,10 @@ FUNDAMENTOS DO REACTJS
 01. Estilizacao de listagem
 02. Utilizando o userEffect
 03. Listando repositorios
-(Recapitulando aqui)
 //04 - USANDO TYPESCRIPT
 01. Fundamentos do Typescript
 02. Typescript no React
+(Recapitulando aqui)
 03. Componentes com Typescript
 
 //05 - FINALIZANDO A APLICACAO
