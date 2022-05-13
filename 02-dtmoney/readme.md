@@ -6,4 +6,4 @@
 
 >       yarn create react-app dtmoney --template typescript
 
--
+>       exportar com export ao invés do export default
