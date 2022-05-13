@@ -33,6 +33,7 @@ FUNDAMENTOS DO REACTJS
 03. Componentes com Typescript
 
 //05 - FINALIZANDO A APLICACAO
-(Recapitulando aqui)
 01. Utilizando React DevTools
+(Recapitulando aqui)
+02 - Finalização do módulo - Rocketseat
 
