@@ -2,6 +2,8 @@
 
 ## CHAPTER 2 | 02-dtmoney
 
+https://www.figma.com/file/iLFkm80Hm9YeC0lMuasNFN/dtmoney-Ignite?node-id=1%3A863
+
 - ###    Inicializando o projeto com create-react-app com o template typescript:
 
 >       yarn create react-app dtmoney --template typescript
@@ -15,3 +17,5 @@
 >       yarn add @types/styled-components -D
 
 >       Instalar a extensão para VScode: vscode-styled-components
+
+- ### Criando estilos globais
