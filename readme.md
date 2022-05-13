@@ -1,6 +1,6 @@
 # Trilha ReactJS
 
-## 01-github-explorer
+## CHAPTER 1 | 01-github-explorer
 
 - ###    Inicializando o repositório do projeto criando o package.json:
 

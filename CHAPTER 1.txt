@@ -34,6 +34,5 @@ FUNDAMENTOS DO REACTJS
 
 //05 - FINALIZANDO A APLICACAO
 01. Utilizando React DevTools
-(Recapitulando aqui)
 02 - Finalização do módulo - Rocketseat
 
