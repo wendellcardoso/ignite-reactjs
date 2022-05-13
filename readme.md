@@ -129,3 +129,7 @@
 > yarn add @types/react-dom -D
 
 > yarn add @types/react -D
+
+> utilizar a extensão .tsx nos componetes
+
+- ## Utilizando o React DevTools

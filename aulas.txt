@@ -30,9 +30,9 @@ FUNDAMENTOS DO REACTJS
 //04 - USANDO TYPESCRIPT
 01. Fundamentos do Typescript
 02. Typescript no React
-(Recapitulando aqui)
 03. Componentes com Typescript
 
 //05 - FINALIZANDO A APLICACAO
+(Recapitulando aqui)
 01. Utilizando React DevTools
 
