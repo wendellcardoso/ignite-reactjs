@@ -6,3 +6,4 @@ PRIMEIRA APLICÇÃO WEB COM REACTJS
 //01 - Estrutura da aplicação
 01 - Introdução do módulo - Rocketseat
 02 - Estruture com create-react-app
+03 - Exportando assets do Figma
