@@ -10,3 +10,6 @@ PRIMEIRA APLICÇÃO WEB COM REACTJS
 04 - Instalando Styled Components - Rocketseat
 05 - Criando estilos globais - Rocketseat
 06 - Fontes do Google Fonts - Rocketseat
+
+//02 - Componentização
+01 - Componente Header - Rocketseat (7:43)
