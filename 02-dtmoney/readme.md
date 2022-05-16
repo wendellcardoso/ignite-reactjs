@@ -19,3 +19,5 @@ https://www.figma.com/file/iLFkm80Hm9YeC0lMuasNFN/dtmoney-Ignite?node-id=1%3A863
 >       Instalar a extensão para VScode: vscode-styled-components
 
 - ### Criando estilos globais
+
+> src/styles/global.ts

@@ -8,4 +8,4 @@ PRIMEIRA APLICÇÃO WEB COM REACTJS
 02 - Estruture com create-react-app
 03 - Exportando assets do Figma
 04 - Instalando Styled Components - Rocketseat
-05 - Criando estilos globais - Rocketseat (5:38)
+05 - Criando estilos globais - Rocketseat (9:57)
