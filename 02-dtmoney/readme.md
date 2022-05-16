@@ -21,3 +21,7 @@ https://www.figma.com/file/iLFkm80Hm9YeC0lMuasNFN/dtmoney-Ignite?node-id=1%3A863
 - ### Criando estilos globais
 
 > src/styles/global.ts
+
+- ### Fontes do Google Fonts
+
+> inserir o link de incorporaçao da fonte no arquivo index.html
