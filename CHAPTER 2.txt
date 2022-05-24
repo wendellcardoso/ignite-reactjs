@@ -4,12 +4,13 @@ PRIMEIRA APLICÇÃO WEB COM REACTJS
 */
 
 //01 - Estrutura da aplicação
-01 - Introdução do módulo - Rocketseat
+01 - Introdução do módulo
 02 - Estruture com create-react-app
 03 - Exportando assets do Figma
-04 - Instalando Styled Components - Rocketseat
-05 - Criando estilos globais - Rocketseat
-06 - Fontes do Google Fonts - Rocketseat
+04 - Instalando Styled Components
+05 - Criando estilos globais
+06 - Fontes do Google Fonts
 
 //02 - Componentização
-01 - Componente Header - Rocketseat (7:43)
+01 - Componente Header
+02 - Componente Summary

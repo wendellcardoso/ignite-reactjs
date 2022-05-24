@@ -29,3 +29,7 @@ https://www.figma.com/file/iLFkm80Hm9YeC0lMuasNFN/dtmoney-Ignite?node-id=1%3A863
 - ## Componente Header
 
 > src/components/Header/
+
+- ## Componente Summary
+
+> criou-se, primeiramente, o componente Dashboard
