@@ -33,3 +33,7 @@ https://www.figma.com/file/iLFkm80Hm9YeC0lMuasNFN/dtmoney-Ignite?node-id=1%3A863
 - ## Componente Summary
 
 > criou-se, primeiramente, o componente Dashboard
+
+- ## Componente TransactionsTable
+
+> Tabela com o historico de entradas e saidas
