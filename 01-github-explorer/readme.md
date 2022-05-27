@@ -77,44 +77,44 @@
 
 >   devtool: 'eval-source-map', // ambiente de producao
 
-- ## Ambiente dev e producao
+- ### Ambiente dev e producao
 > Varieaveis ambiente
 
 > process.env.NODE_ENV
 
 > yarn add cross-env -D // serve para definirmos variaveis de ambiente, independente do sistema operacional
 
-- ## Importando arquivos CSS
+- ### Importando arquivos CSS
 > yarn add style-loader css-loader -D   // instalando loaders css. OBS: precisa ser os dois juntos
 
-- ## Utilizando SASS
+- ### Utilizando SASS
 > yarn add sass-loader -D       // instalando sass-loader para entender arquivos sass
 
 > yarn add node-sass -D      // também precisa instalar o node-sass
 
-- ## Primeiro componente React
+- ### Primeiro componente React
 > Componentes são uma forma de encapsular uma quantidade de código dentro de um único elemento com sua propria funcionalidade, estilizacao e estrutura.
 
-- ## Propriedades no React
+- ### Propriedades no React
 > São informações que eu posso passar pra um componente para que ele funcione de forma diferente
 
-- ## Estado do componente
+- ### Estado do componente
 > Estados são uma forma de ter variaveis no componente que ao mudarem refletem em mudancas na interface
 
-- ## A imutabilidade no React
+- ### A imutabilidade no React
 > prevê que uma variavel nunca tenha seu valor alterado mas sim que uma nova variavel seja criada no lugar com o novo valor
 
-- ## Fast refresh no webpack
+- ### Fast refresh no webpack
 > usado para realizar mudancas no código da aplicacao durante sua execucao sem alterar os estados dos componentes durante o refresh
 
-- ## Utilizando o UseEffect
+- ### Utilizando o UseEffect
 > serve para disparar uma função quando algo acontecer na aplicação
 
 > useEffect(() => {}, [dependencies])
 
 > nunca alterar uma variavel dentro do useEffect que está sendo usada como dependencia
 
-- ## Typescript no React
+- ### Typescript no React
 > yarn add typescript -D        // instalando o typescript
 
 > yarn tsc --init       // inicializando o typescript na aplicacao
@@ -132,4 +132,4 @@
 
 > utilizar a extensão .tsx nos componetes
 
-- ## Utilizando o React DevTools
+- ### Utilizando o React DevTools

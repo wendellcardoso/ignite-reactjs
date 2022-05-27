@@ -26,14 +26,14 @@ https://www.figma.com/file/iLFkm80Hm9YeC0lMuasNFN/dtmoney-Ignite?node-id=1%3A863
 
 > inserir o link de incorporaçao da fonte no arquivo index.html
 
-- ## Componente Header
+- ### Componente Header
 
 > src/components/Header/
 
-- ## Componente Summary
+- ### Componente Summary
 
 > criou-se, primeiramente, o componente Dashboard
 
-- ## Componente TransactionsTable
+- ### Componente TransactionsTable
 
 > Tabela com o historico de entradas e saidas
