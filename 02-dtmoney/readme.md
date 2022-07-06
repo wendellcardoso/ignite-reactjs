@@ -41,5 +41,9 @@ https://www.figma.com/file/iLFkm80Hm9YeC0lMuasNFN/dtmoney-Ignite?node-id=1%3A863
 - ### Criando front-end sem back-end
 
 > json server
-> mirage js *
+> mirage js (utilizando esse)
 > msw
+
+- ### Configurando o MirageJS
+
+> yarn add miragejs
