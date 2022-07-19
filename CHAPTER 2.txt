@@ -19,3 +19,4 @@ PRIMEIRA APLICÇÃO WEB COM REACTJS
 //03 - Consumindo API
 01 - Criando front-end sem back-end
 02 - Configurando MirageJS
+03 - Configurando cliente do Axios

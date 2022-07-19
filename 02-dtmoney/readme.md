@@ -47,3 +47,7 @@ https://www.figma.com/file/iLFkm80Hm9YeC0lMuasNFN/dtmoney-Ignite?node-id=1%3A863
 - ### Configurando o MirageJS
 
 > yarn add miragejs
+
+- ### Configurando cliente do Axios
+
+> yarn add axios
