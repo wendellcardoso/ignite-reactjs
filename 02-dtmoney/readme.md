@@ -48,6 +48,12 @@ https://www.figma.com/file/iLFkm80Hm9YeC0lMuasNFN/dtmoney-Ignite?node-id=1%3A863
 
 > yarn add miragejs
 
+> No arquivo index.tsx importar a função createServer
+
+> this.namespace: define o caminho base do recurso, exemplo "api". A partir disso, basta configurar as chamadas com os metodos e caminhos específicos
+
+
+
 - ### Configurando cliente do Axios
 
 > yarn add axios
