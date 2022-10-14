@@ -57,3 +57,5 @@ https://www.figma.com/file/iLFkm80Hm9YeC0lMuasNFN/dtmoney-Ignite?node-id=1%3A863
 - ### Configurando cliente do Axios
 
 > yarn add axios
+
+> criar umas pasta chamda src/services e dentro dela, criar um arquivo chamado api.ts
