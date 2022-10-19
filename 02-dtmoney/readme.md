@@ -59,3 +59,19 @@ https://www.figma.com/file/iLFkm80Hm9YeC0lMuasNFN/dtmoney-Ignite?node-id=1%3A863
 > yarn add axios
 
 > criar umas pasta chamda src/services e dentro dela, criar um arquivo chamado api.ts
+
+- ### Modal & Forms
+
+- ### Configurando modal de criação
+
+> yarn add react-modal
+
+> cria um estado com a variavel isNewTransactionModalOpen
+
+> criar funcoes para lidar com a abertura e fechamento do modal
+
+> yarn add @types/react-modal -D
+
+> migrar o modal para o arquivo App.tsx
+
+> utiliza a funcao handleCloseNewTransactionModal como props para ser acionada pelo botão do componente Header
